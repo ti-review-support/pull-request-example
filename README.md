@@ -1,6 +1,6 @@
 # プルリクエストの例
 
-- foo
-- bar
+- foobar
 - baz
+- qux
 
